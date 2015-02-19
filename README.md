@@ -1,1 +1,5 @@
 # nyuteam
+
+## Team
+
+* Xin Wang
